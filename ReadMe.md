@@ -1,7 +1,5 @@
 # Code Wars Repo
-
-[Code Wars](www.codewars.com/r/Y863dA)
-
+Join [Code Wars](https://www.codewars.com/r/Y863dA)
 
 
 The site features different challenges to practice problem solving using JS. The challenges are listed below: 
