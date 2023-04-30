@@ -13,3 +13,4 @@ if (arr.indexOf("wolf") === arr.length - 1) {
 }
 
 // End Of A wolf in sheep's clothing
+//Solution Submitted
